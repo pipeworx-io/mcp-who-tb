@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/who-tb",
   "title": "Who Tb",
   "description": "WHO Global Tuberculosis Programme — the TME data collection.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/who-tb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-who-tb",

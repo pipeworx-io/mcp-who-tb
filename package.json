@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-who-tb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "WHO Global Tuberculosis Programme — the TME data collection.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d290d4913765c9c64e18cd7e0e8586081a5c6e851d57c967b83989e998898d1a",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-df91912604b61407ef9bac4dad6678afbdd71a5689a52317e4e4901d4c0453cd",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
